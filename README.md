@@ -21,6 +21,7 @@
 </p>
 
 ### 📊 GitHub Analytics
+[![GitHub Streak](https://git.nexttechlabs.site/api/streak?username=mohamedADAM27)](https://git.nexttechlabs.site/streak)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedADAM27&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="mohamedADAM27" /></a> </p>
 
