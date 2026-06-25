@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-<p align="left">![Visitor Count](https://profile-counter.glitch.me/mohamedADAM27/count.svg)</p>
-
 - 🔭 I’m currently working on **React Js, Node Js, Python, PHP and DevOps.**
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on ** React Js, Node Js, Python and PHP projects and Basic Web Dev stuff**
